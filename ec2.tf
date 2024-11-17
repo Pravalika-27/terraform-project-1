@@ -24,4 +24,4 @@ user_data="${file("data.sh")}"
 tags={
 Name="My public Instance 2 "
 }
-}i
+}
